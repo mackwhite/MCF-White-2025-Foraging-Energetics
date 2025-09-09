@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Data and code for White et al. 2025 "Linking hydrology, temperature, and energetics: global change implications for the foraging ecology of a generalist predator"
+message: Please cite this dataset using these metadata.
+type: dataset
+authors:
+  - given-names: Mack White
+  - given-names: W. Ryan James
+  - given-names: Justin S. Lesser
+  - given-names: Ryan J. Rezek
+  - given-names: Jonathan R. Rodemann
+  - given-names: Ross E. Boucek
+  - given-names: Rolando O. Santos
+  - given-names: Jennifer S. Rehage
